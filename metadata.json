@@ -1,0 +1,6 @@
+{
+  "name": "IT Asset Manager",
+  "description": "Simplified IT asset management system with location tagging for COCO stores and factories, tracking hardware inventory, CCTV, and staff allocations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
